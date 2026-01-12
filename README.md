@@ -1,1 +1,19 @@
-# chapter8_team_project
+# Chapter 8 Team Project
+Jacob Losey, alex D. goat
+
+## Chapter 8 Team Project Description
+
+
+### Chapter 8 Team Project Flowchart
+```mermaid
+graph TD;
+
+  
+```
+
+#### Function Diagrams
+
+| `main`    |               |  jacob    |
+| ------------------ | ------------- | ------------ |
+| accepts no arguements    | it runs the functions |   it outputs nothing           |
+***
