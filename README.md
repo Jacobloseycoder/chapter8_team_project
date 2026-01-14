@@ -67,9 +67,5 @@ graph LR
 ***
 | `sort data`    |               |  max    |
 | ------------------ | ------------- | ------------ |
-| accepts no arguements    | it runs the functions |   it outputs nothing           |
-***
-| `clear inputs`    |               |  max    |
-| ------------------ | ------------- | ------------ |
-| accepts no arguements    | it runs the functions |   it outputs nothing           |
+| accepts no arguements    | sorts the grades ether alphibeticly or by avrige desending |   it in the chocen way           |
 ***
